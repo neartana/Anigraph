@@ -9,6 +9,8 @@ character tier lists in one lightweight app.
 
 **Vanilla JavaScript · Node.js 24 · No runtime dependencies · [MIT licensed](LICENSE)**
 
+**[Open Anigraph](https://anigraph-phi.vercel.app/)**
+
 [![Anigraph — Stats, Library, discovery, Airing Radar, and tier lists](media/anigraph-showcase-preview.gif)](https://github.com/neartana/Anigraph/raw/refs/heads/main/media/anigraph-showcase.mp4)
 
 [Download MP4](https://github.com/neartana/Anigraph/raw/refs/heads/main/media/anigraph-showcase.mp4)
@@ -67,7 +69,7 @@ For example:
 python -m http.server 5173 --bind 127.0.0.1
 ~~~
 
-| Capability | Node server | Static server / `file://` |
+| Capability | Node server / Vercel | Static server / `file://` |
 | --- | :---: | :---: |
 | AniList profiles, Library, discovery, tiers, and Radar | Yes | Yes |
 | MyAnimeList profiles and lists | Yes | No |
@@ -77,6 +79,9 @@ On static hosting, unavailable news is shown without blocking the other views. S
 browsers restrict clipboard access on `file://`; sharing falls back to a selectable link.
 
 ## Deploy to Vercel
+
+The public app is hosted at **[anigraph-phi.vercel.app](https://anigraph-phi.vercel.app/)**.
+The Vercel project is connected to this GitHub repository.
 
 Import this repository into Vercel. The included configuration uses Node.js 24,
 publishes the three app files through Vercel's CDN, and runs the existing MyAnimeList

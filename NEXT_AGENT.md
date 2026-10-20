@@ -2,6 +2,18 @@
 
 ## Current status
 
+Anigraph is deployed at https://anigraph-phi.vercel.app on Vercel project
+`near19/anigraph`, connected to `neartana/Anigraph`. Root package scripts use Node24;
+`npm run build` copies only the three app files into ignored `dist/`. `api/app.js`
+reuses the unchanged Node request listener. An unnamed `/api/(.*)` rewrite preserves
+the strict MAL query allowlist; function duration is 60s. Deployment checks 11/11,
+existing server 14/14 and news-image 7/7 passed. Production HTTP smoke checks 11/11
+passed, including real MAL derF profile/manga list, ANN headlines, MIME types,
+invalid inputs, and source-path 404s. A real AniList Neartana profile also loaded
+in the production browser. Evidence is ignored `qa/artifacts/acceptance-22/`.
+Caches and upstream queues are per warm function instance, not shared globally.
+Showcase assets remain on GitHub, outside the deployed app's static allowlist.
+
 Showcase playback now uses `media/index.html`, with WebM (VP9/Opus) and the original
 MP4 (H.264/AAC). Both played to completion in the in-app browser. GitHub's file viewer
 does not preview the MP4; README now uses a full animated GIF and explicit download

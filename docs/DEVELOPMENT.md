@@ -25,6 +25,19 @@ AniList requests go directly from the browser to `https://graphql.anilist.co`; t
 Node server is required for MAL and news. No OAuth identity, database, or provider
 account-write operation is implemented.
 
+### Vercel hosting
+
+`npm run build` recreates the checked `dist/` directory and copies only the HTML,
+CSS, and browser script for CDN delivery. `api/app.js` exports the existing server's
+request listener as a Node.js 24 function, preserving the same validation, upstream
+limits, and error responses. The unnamed `/api/(.*)` rewrite keeps routing captures
+out of MAL's query string. The function has a 60-second execution limit.
+
+Proxy caches, in-flight request coalescing, and upstream queues belong to a warm
+function instance. They reset on cold starts and do not coordinate across instances.
+QA files, renderer sources, videos, environment files, and local Vercel settings are
+excluded from deployment. `npm run test:vercel` checks the adapter and build allowlist.
+
 ## Public-data contracts
 
 ### AniList
