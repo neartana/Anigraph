@@ -1,0 +1,3431 @@
+{
+  "when": "2026-10-19T13:45:40.443Z",
+  "timezone": "LOCAL / Asia/Jakarta",
+  "range": "Oct 19, 2026 – Oct 25, 2026",
+  "status": null,
+  "count": 130,
+  "pages": [
+    {
+      "variables": {
+        "page": 1,
+        "start": 1792342799,
+        "end": 1792947600
+      },
+      "pageInfo": {
+        "hasNextPage": true
+      },
+      "schedules": [
+        {
+          "id": 422528,
+          "episode": 3,
+          "airingAt": 1792346400,
+          "media": {
+            "id": 218217,
+            "title": {
+              "romaji": "JK Dark Summoner to Deki......Dei Nai!?",
+              "english": null,
+              "native": "JKダークサモナーとデキ。。。。。。でいない!?"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218217-crIGlnQDg0bJ.png"
+            }
+          }
+        },
+        {
+          "id": 414221,
+          "episode": 163,
+          "airingAt": 1792375200,
+          "media": {
+            "id": 137653,
+            "title": {
+              "romaji": "Xian Ni",
+              "english": "Renegade Immortal",
+              "native": "仙逆"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png"
+            }
+          }
+        },
+        {
+          "id": 419731,
+          "episode": 5,
+          "airingAt": 1792375200,
+          "media": {
+            "id": 214593,
+            "title": {
+              "romaji": "Yuusanchi! from Yuuhachi",
+              "english": null,
+              "native": "ゆうさんち！from 遊ハち"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png"
+            }
+          }
+        },
+        {
+          "id": 422693,
+          "episode": 3,
+          "airingAt": 1792378800,
+          "media": {
+            "id": 218532,
+            "title": {
+              "romaji": "Maomao no Hitorigoto 3rd Season",
+              "english": null,
+              "native": "猫猫のひとりごと 第3期"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218532-I1GCprJrJ5sm.png"
+            }
+          }
+        },
+        {
+          "id": 420067,
+          "episode": 3,
+          "airingAt": 1792413000,
+          "media": {
+            "id": 207191,
+            "title": {
+              "romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+              "english": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+              "native": "どうも、好きな人に惚れ薬を依頼された魔女です。"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg"
+            }
+          }
+        },
+        {
+          "id": 422213,
+          "episode": 4,
+          "airingAt": 1792414800,
+          "media": {
+            "id": 209219,
+            "title": {
+              "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
+              "english": "So What's Wrong with Getting Reborn as a Goblin?",
+              "native": "転生ゴブリンだけど質問ある？"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg"
+            }
+          }
+        },
+        {
+          "id": 419765,
+          "episode": 3,
+          "airingAt": 1792418400,
+          "media": {
+            "id": 204011,
+            "title": {
+              "romaji": "PSYЯEN",
+              "english": "PSYREN",
+              "native": "PSYREN -サイレン-"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg"
+            }
+          }
+        },
+        {
+          "id": 419856,
+          "episode": 9,
+          "airingAt": 1792418400,
+          "media": {
+            "id": 185874,
+            "title": {
+              "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+              "english": "BLEACH: Thousand-Year Blood War - The Calamity",
+              "native": "BLEACH 千年血戦篇-禍進譚-"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg"
+            }
+          }
+        },
+        {
+          "id": 418904,
+          "episode": 3,
+          "airingAt": 1792429200,
+          "media": {
+            "id": 160803,
+            "title": {
+              "romaji": "Mahou Shoujo Ikusei Keikaku: restart",
+              "english": "MAGICAL GIRL RAISING PROJECT restart",
+              "native": "魔法少女育成計画 restart"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png"
+            }
+          }
+        },
+        {
+          "id": 408371,
+          "episode": 426,
+          "airingAt": 1792461600,
+          "media": {
+            "id": 155723,
+            "title": {
+              "romaji": "Wushen Zhuzai: Da Wei Pian",
+              "english": null,
+              "native": "武神主宰 大威篇"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
+            }
+          }
+        },
+        {
+          "id": 415243,
+          "episode": 20,
+          "airingAt": 1792461600,
+          "media": {
+            "id": 213188,
+            "title": {
+              "romaji": "Jueshi Zhan Hun 2",
+              "english": null,
+              "native": "绝世战魂 第2季"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png"
+            }
+          }
+        },
+        {
+          "id": 422565,
+          "episode": 1,
+          "airingAt": 1792479900,
+          "media": {
+            "id": 195539,
+            "title": {
+              "romaji": "Cyberpunk: Edgerunners 2",
+              "english": "Cyberpunk: Edgerunners 2",
+              "native": "サイバーパンク: エッジランナーズ2"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+            }
+          }
+        },
+        {
+          "id": 422566,
+          "episode": 2,
+          "airingAt": 1792479900,
+          "media": {
+            "id": 195539,
+            "title": {
+              "romaji": "Cyberpunk: Edgerunners 2",
+              "english": "Cyberpunk: Edgerunners 2",
+              "native": "サイバーパンク: エッジランナーズ2"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+            }
+          }
+        },
+        {
+          "id": 422567,
+          "episode": 3,
+          "airingAt": 1792479900,
+          "media": {
+            "id": 195539,
+            "title": {
+              "romaji": "Cyberpunk: Edgerunners 2",
+              "english": "Cyberpunk: Edgerunners 2",
+              "native": "サイバーパンク: エッジランナーズ2"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+            }
+          }
+        },
+        {
+          "id": 422568,
+          "episode": 4,
+          "airingAt": 1792479900,
+          "media": {
+            "id": 195539,
+            "title": {
+              "romaji": "Cyberpunk: Edgerunners 2",
+              "english": "Cyberpunk: Edgerunners 2",
+              "native": "サイバーパンク: エッジランナーズ2"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+            }
+          }
+        },
+        {
+          "id": 422569,
+          "episode": 5,
+          "airingAt": 1792479900,
+          "media": {
+            "id": 195539,
+            "title": {
+              "romaji": "Cyberpunk: Edgerunners 2",
+              "english": "Cyberpunk: Edgerunners 2",
+              "native": "サイバーパンク: エッジランナーズ2"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+            }
+          }
+        },
+        {
+          "id": 422570,
+          "episode": 6,
+          "airingAt": 1792479900,
+          "media": {
+            "id": 195539,
+            "title": {
+              "romaji": "Cyberpunk: Edgerunners 2",
+              "english": "Cyberpunk: Edgerunners 2",
+              "native": "サイバーパンク: エッジランナーズ2"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+            }
+          }
+        },
+        {
+          "id": 422571,
+          "episode": 7,
+          "airingAt": 1792479900,
+          "media": {
+            "id": 195539,
+            "title": {
+              "romaji": "Cyberpunk: Edgerunners 2",
+              "english": "Cyberpunk: Edgerunners 2",
+              "native": "サイバーパンク: エッジランナーズ2"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+            }
+          }
+        },
+        {
+          "id": 422572,
+          "episode": 8,
+          "airingAt": 1792479900,
+          "media": {
+            "id": 195539,
+            "title": {
+              "romaji": "Cyberpunk: Edgerunners 2",
+              "english": "Cyberpunk: Edgerunners 2",
+              "native": "サイバーパンク: エッジランナーズ2"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+            }
+          }
+        },
+        {
+          "id": 422573,
+          "episode": 9,
+          "airingAt": 1792479900,
+          "media": {
+            "id": 195539,
+            "title": {
+              "romaji": "Cyberpunk: Edgerunners 2",
+              "english": "Cyberpunk: Edgerunners 2",
+              "native": "サイバーパンク: エッジランナーズ2"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+            }
+          }
+        },
+        {
+          "id": 422574,
+          "episode": 10,
+          "airingAt": 1792479900,
+          "media": {
+            "id": 195539,
+            "title": {
+              "romaji": "Cyberpunk: Edgerunners 2",
+              "english": "Cyberpunk: Edgerunners 2",
+              "native": "サイバーパンク: エッジランナーズ2"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+            }
+          }
+        },
+        {
+          "id": 417798,
+          "episode": 3,
+          "airingAt": 1792499160,
+          "media": {
+            "id": 206949,
+            "title": {
+              "romaji": "Kyouran Reijou Nia Liston",
+              "english": "Nia Liston: The Merciless Maiden",
+              "native": "凶乱令嬢ニア・リストン"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png"
+            }
+          }
+        },
+        {
+          "id": 420418,
+          "episode": 3,
+          "airingAt": 1792501200,
+          "media": {
+            "id": 209502,
+            "title": {
+              "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+              "english": "The Cold Sato-san is Only Sweet to Me",
+              "native": "塩対応の佐藤さんが俺にだけ甘い"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg"
+            }
+          }
+        },
+        {
+          "id": 418479,
+          "episode": 3,
+          "airingAt": 1792504800,
+          "media": {
+            "id": 200294,
+            "title": {
+              "romaji": "Choujun! Choujou Senpai",
+              "english": "Super Psychic Policeman Chojo",
+              "native": "超巡！超条先輩"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200294-E6KIgkFaJOfG.jpg"
+            }
+          }
+        },
+        {
+          "id": 418974,
+          "episode": 3,
+          "airingAt": 1792504800,
+          "media": {
+            "id": 187990,
+            "title": {
+              "romaji": "Battle Spirits [Re] Zekkai no Kuu",
+              "english": "Battle Spirits [Re] Zekkai No Ku",
+              "native": "Battle Spirits [Re] 絶界の空"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187990-tNyQPmr9TkYi.png"
+            }
+          }
+        },
+        {
+          "id": 422539,
+          "episode": 2,
+          "airingAt": 1792504800,
+          "media": {
+            "id": 198727,
+            "title": {
+              "romaji": "Chitose-kun wa Ramune Bin no Naka Part 2",
+              "english": "Chitose Is in the Ramune Bottle 2nd Cour",
+              "native": "千歳くんはラムネ瓶のなか 2クール"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg"
+            }
+          }
+        },
+        {
+          "id": 422442,
+          "episode": 3,
+          "airingAt": 1792506600,
+          "media": {
+            "id": 187316,
+            "title": {
+              "romaji": "Gensou Suikoden",
+              "english": null,
+              "native": "幻想水滸伝"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187316-jucYCojVTjSY.jpg"
+            }
+          }
+        },
+        {
+          "id": 420254,
+          "episode": 3,
+          "airingAt": 1792508400,
+          "media": {
+            "id": 207329,
+            "title": {
+              "romaji": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+              "english": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+              "native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png"
+            }
+          }
+        },
+        {
+          "id": 418951,
+          "episode": 16,
+          "airingAt": 1792514100,
+          "media": {
+            "id": 207809,
+            "title": {
+              "romaji": "Sora wa Akai Kawa no Hotori",
+              "english": "Red River",
+              "native": "天は赤い河のほとり"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg"
+            }
+          }
+        },
+        {
+          "id": 419635,
+          "episode": 2,
+          "airingAt": 1792514700,
+          "media": {
+            "id": 179876,
+            "title": {
+              "romaji": "DARK MACHINE: The Animation",
+              "english": "DARK MACHINE THE ANIMATION",
+              "native": "DARK MACHINE -The Animation-"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179876-Wg62CAzp5WQ1.jpg"
+            }
+          }
+        },
+        {
+          "id": 416121,
+          "episode": 42,
+          "airingAt": 1792537200,
+          "media": {
+            "id": 204656,
+            "title": {
+              "romaji": "mofusand",
+              "english": null,
+              "native": "mofusand"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg"
+            }
+          }
+        },
+        {
+          "id": 417915,
+          "episode": 16,
+          "airingAt": 1792548000,
+          "media": {
+            "id": 199409,
+            "title": {
+              "romaji": "Yi Nian Yongheng 4",
+              "english": null,
+              "native": "一念永恒 第四季"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png"
+            }
+          }
+        },
+        {
+          "id": 421466,
+          "episode": 6,
+          "airingAt": 1792548000,
+          "media": {
+            "id": 214974,
+            "title": {
+              "romaji": "Da Xia Shou Mu Ren",
+              "english": null,
+              "native": "大夏守墓人"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg"
+            }
+          }
+        },
+        {
+          "id": 422057,
+          "episode": 3,
+          "airingAt": 1792585800,
+          "media": {
+            "id": 152677,
+            "title": {
+              "romaji": "Tantei wa mou, Shindeiru. Season 2",
+              "english": "The Detective Is Already Dead Season 2",
+              "native": "探偵はもう、死んでいる。Season2"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png"
+            }
+          }
+        },
+        {
+          "id": 420788,
+          "episode": 1,
+          "airingAt": 1792587240,
+          "media": {
+            "id": 217282,
+            "title": {
+              "romaji": "GelPiyo 2",
+              "english": null,
+              "native": "ゲルぴよ 2"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217282-fRAAhF2b5eIr.png"
+            }
+          }
+        },
+        {
+          "id": 420154,
+          "episode": 3,
+          "airingAt": 1792587600,
+          "media": {
+            "id": 211778,
+            "title": {
+              "romaji": "Sekai Saikyou no Majo, Hajimemashita",
+              "english": "The World's Strongest Witch",
+              "native": "世界最強の魔女、始めました"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg"
+            }
+          }
+        },
+        {
+          "id": 422250,
+          "episode": 3,
+          "airingAt": 1792587600,
+          "media": {
+            "id": 176314,
+            "title": {
+              "romaji": "Sasaki to Pii-chan Season 2",
+              "english": "Sasaki and Peeps Season 2",
+              "native": "佐々木とピーちゃん シーズン２"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg"
+            }
+          }
+        },
+        {
+          "id": 417272,
+          "episode": 3,
+          "airingAt": 1792593960,
+          "media": {
+            "id": 178868,
+            "title": {
+              "romaji": "Magic Knight Rayearth (2026)",
+              "english": "Magic Knight Rayearth (2026)",
+              "native": "魔法騎士レイアース (2026)"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg"
+            }
+          }
+        },
+        {
+          "id": 419601,
+          "episode": 4,
+          "airingAt": 1792594800,
+          "media": {
+            "id": 199068,
+            "title": {
+              "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+              "english": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match",
+              "native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png"
+            }
+          }
+        },
+        {
+          "id": 421451,
+          "episode": 2,
+          "airingAt": 1792594800,
+          "media": {
+            "id": 168085,
+            "title": {
+              "romaji": "Dali Si Rizhi 3",
+              "english": null,
+              "native": "大理寺日志 第3季"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168085-hPOOODUADp7D.png"
+            }
+          }
+        },
+        {
+          "id": 418796,
+          "episode": 4,
+          "airingAt": 1792596600,
+          "media": {
+            "id": 159042,
+            "title": {
+              "romaji": "Tensei Shitara Ken Deshita 2nd Season",
+              "english": "Reincarnated as a Sword Season 2",
+              "native": "転生したら剣でした 第2期"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png"
+            }
+          }
+        },
+        {
+          "id": 419814,
+          "episode": 3,
+          "airingAt": 1792596600,
+          "media": {
+            "id": 213068,
+            "title": {
+              "romaji": "Juuоu Mujin Dandivine",
+              "english": "Dandivine",
+              "native": "獣王武神ダンデヴァイン"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png"
+            }
+          }
+        },
+        {
+          "id": 420118,
+          "episode": 3,
+          "airingAt": 1792597500,
+          "media": {
+            "id": 172192,
+            "title": {
+              "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+              "english": "A Returner's Magic Should be Special Season 2",
+              "native": "帰還者の魔法は特別です 第2期"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg"
+            }
+          }
+        },
+        {
+          "id": 421765,
+          "episode": 4,
+          "airingAt": 1792661400,
+          "media": {
+            "id": 217624,
+            "title": {
+              "romaji": "PetitCure: Precure Fairies Season 4",
+              "english": null,
+              "native": "ぷちきゅあ～Precure Fairies～ シーズン4"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217624-Cwkze5dZ5txL.jpg"
+            }
+          }
+        },
+        {
+          "id": 419083,
+          "episode": 4,
+          "airingAt": 1792672200,
+          "media": {
+            "id": 206401,
+            "title": {
+              "romaji": "FX Senshi Kurumi-chan",
+              "english": "FX Fighter Kurumi-chan",
+              "native": "FX戦士くるみちゃん"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png"
+            }
+          }
+        },
+        {
+          "id": 422408,
+          "episode": 3,
+          "airingAt": 1792679400,
+          "media": {
+            "id": 188034,
+            "title": {
+              "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
+              "english": null,
+              "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg"
+            }
+          }
+        },
+        {
+          "id": 421726,
+          "episode": 4,
+          "airingAt": 1792680960,
+          "media": {
+            "id": 213805,
+            "title": {
+              "romaji": "Koori no Jouheki 2nd Season",
+              "english": "The Ramparts of Ice Season 2",
+              "native": "氷の城壁 第2期"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-Nokui3uWlIlw.png"
+            }
+          }
+        },
+        {
+          "id": 412353,
+          "episode": 1,
+          "airingAt": 1792681200,
+          "media": {
+            "id": 160275,
+            "title": {
+              "romaji": "Made in Abyss: Mezameru Shinpi",
+              "english": null,
+              "native": "メイドインアビス 目覚める神秘"
+            },
+            "format": "MOVIE",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160275-cBOWJpcCGeMq.jpg"
+            }
+          }
+        },
+        {
+          "id": 418962,
+          "episode": 3,
+          "airingAt": 1792681200,
+          "media": {
+            "id": 199594,
+            "title": {
+              "romaji": "Tetsuryou! meet with Tetsudou Musume",
+              "english": "TETSURYO! Meet With Tetsudou Musume",
+              "native": "てつりょー！meet with 鉄道むすめ"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199594-moYKzlfIH03U.jpg"
+            }
+          }
+        },
+        {
+          "id": 419732,
+          "episode": 6,
+          "airingAt": 1792681200,
+          "media": {
+            "id": 214593,
+            "title": {
+              "romaji": "Yuusanchi! from Yuuhachi",
+              "english": null,
+              "native": "ゆうさんち！from 遊ハち"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "variables": {
+        "page": 2,
+        "start": 1792342799,
+        "end": 1792947600
+      },
+      "pageInfo": {
+        "hasNextPage": true
+      },
+      "schedules": [
+        {
+          "id": 421804,
+          "episode": 4,
+          "airingAt": 1792681200,
+          "media": {
+            "id": 212144,
+            "title": {
+              "romaji": "Kizu darake Seijo yori Houfuku wo Komete Season2",
+              "english": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+              "native": "傷だらけ聖女より報復をこめて Season2"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg"
+            }
+          }
+        },
+        {
+          "id": 422592,
+          "episode": 2,
+          "airingAt": 1792681200,
+          "media": {
+            "id": 214551,
+            "title": {
+              "romaji": "Oushun Jogakuen no Danyuu",
+              "english": null,
+              "native": "桜春女学院の男優"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214551-uDaf7UPVxN2v.jpg"
+            }
+          }
+        },
+        {
+          "id": 417002,
+          "episode": 17,
+          "airingAt": 1792682760,
+          "media": {
+            "id": 180136,
+            "title": {
+              "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
+              "english": "The Exiled Heavy Knight Knows How to Game the System",
+              "native": "追放された転生重騎士はゲーム知識で無双する"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg"
+            }
+          }
+        },
+        {
+          "id": 418822,
+          "episode": 3,
+          "airingAt": 1792686480,
+          "media": {
+            "id": 212503,
+            "title": {
+              "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+              "english": "The Iceblade Sorcerer Shall Rule the World II",
+              "native": "冰剣の魔術師が世界を統べるⅡ"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg"
+            }
+          }
+        },
+        {
+          "id": 421792,
+          "episode": 4,
+          "airingAt": 1792716600,
+          "media": {
+            "id": 217577,
+            "title": {
+              "romaji": "Mazenchu",
+              "english": null,
+              "native": "マゼンチュ"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg"
+            }
+          }
+        },
+        {
+          "id": 419020,
+          "episode": 12,
+          "airingAt": 1792724400,
+          "media": {
+            "id": 191832,
+            "title": {
+              "romaji": "Shiguang Dailiren III",
+              "english": "Link Click Season 3",
+              "native": "时光代理人 第三季"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png"
+            }
+          }
+        },
+        {
+          "id": 420968,
+          "episode": 5,
+          "airingAt": 1792742400,
+          "media": {
+            "id": 210482,
+            "title": {
+              "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
+              "english": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+              "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg"
+            }
+          }
+        },
+        {
+          "id": 420231,
+          "episode": 4,
+          "airingAt": 1792748400,
+          "media": {
+            "id": 194207,
+            "title": {
+              "romaji": "Pan Dorobou",
+              "english": null,
+              "native": "パンどろぼう"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194207-7n4M6jOwLdcF.jpg"
+            }
+          }
+        },
+        {
+          "id": 421006,
+          "episode": 154,
+          "airingAt": 1792749300,
+          "media": {
+            "id": 158871,
+            "title": {
+              "romaji": "Pocket Monsters (2023)",
+              "english": "Pokémon Horizons: The Series",
+              "native": "ポケットモンスター (2023)"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg"
+            }
+          }
+        },
+        {
+          "id": 421868,
+          "episode": 136,
+          "airingAt": 1792749600,
+          "media": {
+            "id": 165159,
+            "title": {
+              "romaji": "BEYBLADE X",
+              "english": "BEYBLADE X",
+              "native": "BEYBLADE X"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png"
+            }
+          }
+        },
+        {
+          "id": 422659,
+          "episode": 85,
+          "airingAt": 1792749600,
+          "media": {
+            "id": 146004,
+            "title": {
+              "romaji": "Girigiri Warukunai Watame",
+              "english": "Watame Did Borderline Nothing Wrong",
+              "native": "ギリギリわるくないわため"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146004-hH08KAB1yHlN.png"
+            }
+          }
+        },
+        {
+          "id": 419662,
+          "episode": 3,
+          "airingAt": 1792756800,
+          "media": {
+            "id": 208367,
+            "title": {
+              "romaji": "Duel Masters LOST: Danzai no Shounen",
+              "english": null,
+              "native": "Duel Masters LOST ～断罪の少年～"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208367-qWKRaOpokGoG.jpg"
+            }
+          }
+        },
+        {
+          "id": 420191,
+          "episode": 4,
+          "airingAt": 1792758360,
+          "media": {
+            "id": 216895,
+            "title": {
+              "romaji": "Aoki Denshou: Welsh & Shedar",
+              "english": "Welsh & Shedar",
+              "native": "蒼き伝承 ウェルシュ&シェーダー"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg"
+            }
+          }
+        },
+        {
+          "id": 419704,
+          "episode": 3,
+          "airingAt": 1792762200,
+          "media": {
+            "id": 186742,
+            "title": {
+              "romaji": "Toaru Anbu no ITEM",
+              "english": "A Certain Dark Item",
+              "native": "とある暗部の少女共棲"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
+            }
+          }
+        },
+        {
+          "id": 418784,
+          "episode": 4,
+          "airingAt": 1792764000,
+          "media": {
+            "id": 195516,
+            "title": {
+              "romaji": "Kusuriya no Hitorigoto 3rd Season",
+              "english": "The Apothecary Diaries Season 3",
+              "native": "薬屋のひとりごと 第3期"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg"
+            }
+          }
+        },
+        {
+          "id": 418467,
+          "episode": 3,
+          "airingAt": 1792765800,
+          "media": {
+            "id": 205909,
+            "title": {
+              "romaji": "Hotaru no Yomeiri",
+              "english": "Firefly Wedding",
+              "native": "ホタルの嫁入り"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg"
+            }
+          }
+        },
+        {
+          "id": 422238,
+          "episode": 4,
+          "airingAt": 1792765800,
+          "media": {
+            "id": 204650,
+            "title": {
+              "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen",
+              "english": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+              "native": "桃源暗鬼 日光・華厳の滝編"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png"
+            }
+          }
+        },
+        {
+          "id": 421091,
+          "episode": 16,
+          "airingAt": 1792767600,
+          "media": {
+            "id": 203490,
+            "title": {
+              "romaji": "Uchi no Otouto-domo ga Sumimasen",
+              "english": "Please Excuse My Younger Brothers",
+              "native": "うちの弟どもがすみません"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg"
+            }
+          }
+        },
+        {
+          "id": 418624,
+          "episode": 4,
+          "airingAt": 1792774380,
+          "media": {
+            "id": 178083,
+            "title": {
+              "romaji": "Tokyo Revengers: Santen Sensou-hen",
+              "english": "Tokyo Revengers: War of the Three Titans Arc",
+              "native": "東京リベンジャーズ 三天戦争編"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg"
+            }
+          }
+        },
+        {
+          "id": 419758,
+          "episode": 8,
+          "airingAt": 1792796400,
+          "media": {
+            "id": 214703,
+            "title": {
+              "romaji": "Ghost Meets Gal!",
+              "english": null,
+              "native": "ごーすと・みーつ・ぎゃる！"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214703-iXoaVH6UkiZd.png"
+            }
+          }
+        },
+        {
+          "id": 420278,
+          "episode": 17,
+          "airingAt": 1792798200,
+          "media": {
+            "id": 212308,
+            "title": {
+              "romaji": "Pan no Akachan (TV)",
+              "english": null,
+              "native": "パンの赤ちゃん"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212308-HUdh20Djd7cm.jpg"
+            }
+          }
+        },
+        {
+          "id": 421153,
+          "episode": 29,
+          "airingAt": 1792801560,
+          "media": {
+            "id": 183231,
+            "title": {
+              "romaji": "Rilakkuma",
+              "english": "RILAKKUMA",
+              "native": "リラックマ"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png"
+            }
+          }
+        },
+        {
+          "id": 418612,
+          "episode": 4,
+          "airingAt": 1792801800,
+          "media": {
+            "id": 214968,
+            "title": {
+              "romaji": "Nezumi-kun no Chokki (TV) 2nd Season",
+              "english": null,
+              "native": "ねずみくんのチョッキ (TV) 第2期"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214968-rrPSP2nKF40C.jpg"
+            }
+          }
+        },
+        {
+          "id": 419528,
+          "episode": 4,
+          "airingAt": 1792801800,
+          "media": {
+            "id": 216557,
+            "title": {
+              "romaji": "Keroro Gunsou☆",
+              "english": "KERORO☆",
+              "native": "ケロロ軍曹☆"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-b72dAqbVEDO7.jpg"
+            }
+          }
+        },
+        {
+          "id": 417666,
+          "episode": 17,
+          "airingAt": 1792803600,
+          "media": {
+            "id": 214260,
+            "title": {
+              "romaji": "Zeri Feisheng",
+              "english": "A Good Day to Ascend",
+              "native": "择日飞升"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214260-m2fg5OwduwSt.jpg"
+            }
+          }
+        },
+        {
+          "id": 414712,
+          "episode": 176,
+          "airingAt": 1792807200,
+          "media": {
+            "id": 137683,
+            "title": {
+              "romaji": "Douluo Dalu 2: Jueshi Tangmen",
+              "english": "Soul Land 2: The Peerless Tang Clan",
+              "native": "斗罗大陆2绝世唐门"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png"
+            }
+          }
+        },
+        {
+          "id": 421874,
+          "episode": 6,
+          "airingAt": 1792807200,
+          "media": {
+            "id": 199353,
+            "title": {
+              "romaji": "Dawang Raoming 3",
+              "english": null,
+              "native": "大王饶命 第三季"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199353-S2jczHjCWHGL.png"
+            }
+          }
+        },
+        {
+          "id": 421816,
+          "episode": 4,
+          "airingAt": 1792826940,
+          "media": {
+            "id": 209709,
+            "title": {
+              "romaji": "Sirotan",
+              "english": null,
+              "native": "しろたん"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209709-Wz8BKL1fm5MC.png"
+            }
+          }
+        },
+        {
+          "id": 409443,
+          "episode": 1358,
+          "airingAt": 1792827000,
+          "media": {
+            "id": 966,
+            "title": {
+              "romaji": "Crayon Shin-chan",
+              "english": "Shin Chan",
+              "native": "クレヨンしんちゃん"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg"
+            }
+          }
+        },
+        {
+          "id": 380066,
+          "episode": 938,
+          "airingAt": 1792828800,
+          "media": {
+            "id": 8687,
+            "title": {
+              "romaji": "Doraemon (2005)",
+              "english": null,
+              "native": "ドラえもん (2005)"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg"
+            }
+          }
+        },
+        {
+          "id": 422490,
+          "episode": 3,
+          "airingAt": 1792830600,
+          "media": {
+            "id": 195571,
+            "title": {
+              "romaji": "Shuiro no Kamen",
+              "english": "The Vermilion Mask",
+              "native": "朱色の仮面"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195571-fvj7u5GI7BRT.jpg"
+            }
+          }
+        },
+        {
+          "id": 420736,
+          "episode": 1218,
+          "airingAt": 1792832400,
+          "media": {
+            "id": 235,
+            "title": {
+              "romaji": "Meitantei Conan",
+              "english": "Detective Conan",
+              "native": "名探偵コナン"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg"
+            }
+          }
+        },
+        {
+          "id": 421840,
+          "episode": 4,
+          "airingAt": 1792833900,
+          "media": {
+            "id": 212799,
+            "title": {
+              "romaji": "Marronnier Oukoku no Shichinin no Kishi",
+              "english": "The Seven Knights of the Marronnier Kingdom",
+              "native": "マロニエ王国の七人の騎士"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212799-n7WDdic7IL1z.png"
+            }
+          }
+        },
+        {
+          "id": 415797,
+          "episode": 19,
+          "airingAt": 1792836000,
+          "media": {
+            "id": 213356,
+            "title": {
+              "romaji": "Guangyin Zhi Wai 2",
+              "english": "Beyond Time's Gaze 2",
+              "native": "光阴之外2"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg"
+            }
+          }
+        },
+        {
+          "id": 419827,
+          "episode": 4,
+          "airingAt": 1792843200,
+          "media": {
+            "id": 180894,
+            "title": {
+              "romaji": "Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+              "english": "Romelia War Chronicle",
+              "native": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png"
+            }
+          }
+        },
+        {
+          "id": 421885,
+          "episode": 5,
+          "airingAt": 1792846800,
+          "media": {
+            "id": 187402,
+            "title": {
+              "romaji": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
+              "english": "A Tale of the Secret Saint",
+              "native": "転生した大聖女は、聖女であることをひた隠す"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187402-ReKkLwFmMV3q.jpg"
+            }
+          }
+        },
+        {
+          "id": 420144,
+          "episode": 5,
+          "airingAt": 1792848600,
+          "media": {
+            "id": 204389,
+            "title": {
+              "romaji": "Yasei no Last Boss ga Arawareta! 2nd Season",
+              "english": "A Wild Last Boss Appeared! Season 2",
+              "native": "野生のラスボスが現れた！ 第2期"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204389-jCoFCeTthDMy.jpg"
+            }
+          }
+        },
+        {
+          "id": 419553,
+          "episode": 4,
+          "airingAt": 1792850400,
+          "media": {
+            "id": 195604,
+            "title": {
+              "romaji": "Black Clover 2nd Season",
+              "english": "Black Clover Season 2",
+              "native": "ブラッククローバー 第2期"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg"
+            }
+          }
+        },
+        {
+          "id": 419803,
+          "episode": 4,
+          "airingAt": 1792852200,
+          "media": {
+            "id": 209562,
+            "title": {
+              "romaji": "Vertex Force",
+              "english": "VERTEX FORCE",
+              "native": "バーテックスフォース"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209562-kQQbTKDuql9p.jpg"
+            }
+          }
+        },
+        {
+          "id": 420131,
+          "episode": 4,
+          "airingAt": 1792852200,
+          "media": {
+            "id": 199007,
+            "title": {
+              "romaji": "#Zombie Sagashitemasu",
+              "english": "#I'm Looking For a Zombie",
+              "native": "#ゾンビさがしてます"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-8R1HsnflnHJE.jpg"
+            }
+          }
+        },
+        {
+          "id": 420242,
+          "episode": 3,
+          "airingAt": 1792853100,
+          "media": {
+            "id": 203473,
+            "title": {
+              "romaji": "Kyoufu Collector",
+              "english": "HORROR COLLECTOR",
+              "native": "恐怖コレクター"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg"
+            }
+          }
+        },
+        {
+          "id": 422396,
+          "episode": 5,
+          "airingAt": 1792854000,
+          "media": {
+            "id": 169581,
+            "title": {
+              "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
+              "english": "Magical Explorer",
+              "native": "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png"
+            }
+          }
+        },
+        {
+          "id": 418847,
+          "episode": 4,
+          "airingAt": 1792855800,
+          "media": {
+            "id": 191656,
+            "title": {
+              "romaji": "Seitokai ni mo Ana wa Aru!",
+              "english": "Even the Student Council Has Its Holes!",
+              "native": "生徒会にも穴はある！"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191656-xFHtxM8SUTdU.png"
+            }
+          }
+        },
+        {
+          "id": 417717,
+          "episode": 4,
+          "airingAt": 1792857360,
+          "media": {
+            "id": 209872,
+            "title": {
+              "romaji": "Ranma 1/2 (2024) 3rd Season",
+              "english": "Ranma1/2 (2024) Season 3",
+              "native": "らんま1/2 (2024) 第3期"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209872-RBeVPqwejHFp.jpg"
+            }
+          }
+        },
+        {
+          "id": 419565,
+          "episode": 4,
+          "airingAt": 1792859400,
+          "media": {
+            "id": 202250,
+            "title": {
+              "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+              "english": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+              "native": "貸した魔力は【リボ払い】で強制徴収"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-mpm2cvr92Au2.jpg"
+            }
+          }
+        },
+        {
+          "id": 410606,
+          "episode": 29,
+          "airingAt": 1792879200,
+          "media": {
+            "id": 204269,
+            "title": {
+              "romaji": "Odekake Kozame Season 2",
+              "english": "Little Shark's Day Out Season 2",
+              "native": "おでかけ子ザメ シーズン2"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png"
+            }
+          }
+        },
+        {
+          "id": 422008,
+          "episode": 4,
+          "airingAt": 1792879200,
+          "media": {
+            "id": 213298,
+            "title": {
+              "romaji": "Yuruyuru Zukan",
+              "english": null,
+              "native": "ゆるゆる図鑑"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213298-ymB1Sw0yDZ0Y.jpg"
+            }
+          }
+        },
+        {
+          "id": 422357,
+          "episode": 4,
+          "airingAt": 1792879200,
+          "media": {
+            "id": 218011,
+            "title": {
+              "romaji": "Tanuki to Kitsune (TV)",
+              "english": "Raccoon Dog & Fox",
+              "native": "タヌキとキツネ"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218011-dPgr1MlfSuhH.jpg"
+            }
+          }
+        },
+        {
+          "id": 412318,
+          "episode": 82,
+          "airingAt": 1792882800,
+          "media": {
+            "id": 185646,
+            "title": {
+              "romaji": "Koupen-chan",
+              "english": null,
+              "native": "コウペンちゃん"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg"
+            }
+          }
+        },
+        {
+          "id": 411679,
+          "episode": 39,
+          "airingAt": 1792884600,
+          "media": {
+            "id": 202957,
+            "title": {
+              "romaji": "Meitantei Precure!",
+              "english": "Star Detective Precure!",
+              "native": "名探偵プリキュア！"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "variables": {
+        "page": 3,
+        "start": 1792342799,
+        "end": 1792947600
+      },
+      "pageInfo": {
+        "hasNextPage": false
+      },
+      "schedules": [
+        {
+          "id": 420093,
+          "episode": 4,
+          "airingAt": 1792887360,
+          "media": {
+            "id": 216860,
+            "title": {
+              "romaji": "Punirunes Puni 4",
+              "english": null,
+              "native": "ぷにるんず ぷに４"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216860-ghfSopHbPVNa.png"
+            }
+          }
+        },
+        {
+          "id": 410158,
+          "episode": 30,
+          "airingAt": 1792888200,
+          "media": {
+            "id": 206523,
+            "title": {
+              "romaji": "Onegai AiPri",
+              "english": null,
+              "native": "おねがいアイプリ"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg"
+            }
+          }
+        },
+        {
+          "id": 422177,
+          "episode": 4,
+          "airingAt": 1792890000,
+          "media": {
+            "id": 217787,
+            "title": {
+              "romaji": "Pop Pap Polters",
+              "english": null,
+              "native": "ポップパップポルターズ"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b217787-NHLlgGiqy59P.jpg"
+            }
+          }
+        },
+        {
+          "id": 408372,
+          "episode": 427,
+          "airingAt": 1792893600,
+          "media": {
+            "id": 155723,
+            "title": {
+              "romaji": "Wushen Zhuzai: Da Wei Pian",
+              "english": null,
+              "native": "武神主宰 大威篇"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
+            }
+          }
+        },
+        {
+          "id": 417555,
+          "episode": 58,
+          "airingAt": 1792893600,
+          "media": {
+            "id": 196613,
+            "title": {
+              "romaji": "Dou Po Cangqiong: Nian Fan 4",
+              "english": null,
+              "native": "斗破苍穹 年番4"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg"
+            }
+          }
+        },
+        {
+          "id": 412159,
+          "episode": 4,
+          "airingAt": 1792913400,
+          "media": {
+            "id": 189123,
+            "title": {
+              "romaji": "Ao no Hako Season 2",
+              "english": "Blue Box Season 2",
+              "native": "アオのハコ Season２"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189123-0secXELIhkIW.jpg"
+            }
+          }
+        },
+        {
+          "id": 421984,
+          "episode": 4,
+          "airingAt": 1792915200,
+          "media": {
+            "id": 191788,
+            "title": {
+              "romaji": "Aoashi 2nd Season",
+              "english": "Aoashi Season 2",
+              "native": "アオアシ 第2期"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191788-XC6F24LdX6a4.jpg"
+            }
+          }
+        },
+        {
+          "id": 422225,
+          "episode": 3,
+          "airingAt": 1792915200,
+          "media": {
+            "id": 213657,
+            "title": {
+              "romaji": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+              "english": "Mission: Yozakura Family Season 2 Part 2",
+              "native": "夜桜さんちの大作戦 第2期 第2クール"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213657-ORNXVEBCjXaz.jpg"
+            }
+          }
+        },
+        {
+          "id": 419577,
+          "episode": 3,
+          "airingAt": 1792917000,
+          "media": {
+            "id": 213658,
+            "title": {
+              "romaji": "Diamond no Ace act II: Second Season Part 2",
+              "english": "Ace of the Diamond act II -Second Season-",
+              "native": "ダイヤのA actⅡ -Second Season- 第2クール"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213658-D3BPJaqawLxS.png"
+            }
+          }
+        },
+        {
+          "id": 416930,
+          "episode": 389,
+          "airingAt": 1792918800,
+          "media": {
+            "id": 118123,
+            "title": {
+              "romaji": "Holo no Graffiti",
+              "english": null,
+              "native": "ホロのぐらふぃてぃ"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png"
+            }
+          }
+        },
+        {
+          "id": 394995,
+          "episode": 2855,
+          "airingAt": 1792920600,
+          "media": {
+            "id": 2406,
+            "title": {
+              "romaji": "Sazae-san",
+              "english": null,
+              "native": "サザエさん"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg"
+            }
+          }
+        },
+        {
+          "id": 419076,
+          "episode": 1,
+          "airingAt": 1792922400,
+          "media": {
+            "id": 190054,
+            "title": {
+              "romaji": "Watashi no Shiawase na Kekkon Tokubetsu-hen",
+              "english": "My Happy Marriage Special Episodes",
+              "native": "わたしの幸せな結婚 特別篇"
+            },
+            "format": "SPECIAL",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190054-8h0AuqQjwcCL.png"
+            }
+          }
+        },
+        {
+          "id": 419077,
+          "episode": 2,
+          "airingAt": 1792924200,
+          "media": {
+            "id": 190054,
+            "title": {
+              "romaji": "Watashi no Shiawase na Kekkon Tokubetsu-hen",
+              "english": "My Happy Marriage Special Episodes",
+              "native": "わたしの幸せな結婚 特別篇"
+            },
+            "format": "SPECIAL",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190054-8h0AuqQjwcCL.png"
+            }
+          }
+        },
+        {
+          "id": 419078,
+          "episode": 3,
+          "airingAt": 1792926000,
+          "media": {
+            "id": 190054,
+            "title": {
+              "romaji": "Watashi no Shiawase na Kekkon Tokubetsu-hen",
+              "english": "My Happy Marriage Special Episodes",
+              "native": "わたしの幸せな結婚 特別篇"
+            },
+            "format": "SPECIAL",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190054-8h0AuqQjwcCL.png"
+            }
+          }
+        },
+        {
+          "id": 422504,
+          "episode": 5,
+          "airingAt": 1792929600,
+          "media": {
+            "id": 215835,
+            "title": {
+              "romaji": "Umayuru: Full Gate!",
+              "english": null,
+              "native": "うまゆるふるげ〜と!"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215835-B0seSw93V5qM.png"
+            }
+          }
+        },
+        {
+          "id": 419790,
+          "episode": 4,
+          "airingAt": 1792931400,
+          "media": {
+            "id": 186541,
+            "title": {
+              "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+              "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+              "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg"
+            }
+          }
+        },
+        {
+          "id": 418252,
+          "episode": 4,
+          "airingAt": 1792933200,
+          "media": {
+            "id": 202079,
+            "title": {
+              "romaji": "Oji-san wa Kawaii Mono ga Osuki.",
+              "english": "Uncle's Obsession with Cute Things",
+              "native": "おじさんはカワイイものがお好き。"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202079-nwBpDUms0Bab.png"
+            }
+          }
+        },
+        {
+          "id": 419240,
+          "episode": 4,
+          "airingAt": 1792935000,
+          "media": {
+            "id": 209032,
+            "title": {
+              "romaji": "Mahou no Shimai LuluttoLilly Part 2",
+              "english": "Magical Sisters LuluttoLilly Part 2",
+              "native": "魔法の姉妹ルルットリリィ 第2クール"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209032-R0gP5IFdk7Vd.jpg"
+            }
+          }
+        },
+        {
+          "id": 422115,
+          "episode": 4,
+          "airingAt": 1792936800,
+          "media": {
+            "id": 209499,
+            "title": {
+              "romaji": "TANK CHAIR: Sensha Isu",
+              "english": "TANK CHAIR",
+              "native": "TANK CHAIR-戦車椅子-"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209499-S0sWFrCpft85.jpg"
+            }
+          }
+        },
+        {
+          "id": 419191,
+          "episode": 3,
+          "airingAt": 1792937760,
+          "media": {
+            "id": 206814,
+            "title": {
+              "romaji": "Dragon Ball Super: Beerus",
+              "english": "Dragon Ball Super: Beerus",
+              "native": "ドラゴンボール超 ビルス"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg"
+            }
+          }
+        },
+        {
+          "id": 419229,
+          "episode": 5,
+          "airingAt": 1792938600,
+          "media": {
+            "id": 185756,
+            "title": {
+              "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+              "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+              "native": "転生貴族、鑑定スキルで成り上がる 第3期"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185756-xPCl0RyQ7fXD.jpg"
+            }
+          }
+        },
+        {
+          "id": 419251,
+          "episode": 3,
+          "airingAt": 1792938600,
+          "media": {
+            "id": 205896,
+            "title": {
+              "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+              "english": "Full Clearing Another World under a Goddess with Zero Believers",
+              "native": "信者ゼロの女神サマと始める異世界攻略"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg"
+            }
+          }
+        },
+        {
+          "id": 419613,
+          "episode": 4,
+          "airingAt": 1792938600,
+          "media": {
+            "id": 200455,
+            "title": {
+              "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+              "english": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+              "native": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200455-P3XStRQMJ7Di.png"
+            }
+          }
+        },
+        {
+          "id": 419898,
+          "episode": 5,
+          "airingAt": 1792938600,
+          "media": {
+            "id": 212888,
+            "title": {
+              "romaji": "Tempal: Item no Chikara",
+              "english": "Overgeared",
+              "native": "テムパル～アイテムの力～"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212888-NhyvqPt5aIuJ.jpg"
+            }
+          }
+        },
+        {
+          "id": 422102,
+          "episode": 4,
+          "airingAt": 1792939500,
+          "media": {
+            "id": 199426,
+            "title": {
+              "romaji": "Hotel Inhumans 2nd Season",
+              "english": "HOTEL INHUMANS Season 2",
+              "native": "ホテル・インヒューマンズ 第2期"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199426-0nBgTV9BrcJn.jpg"
+            }
+          }
+        },
+        {
+          "id": 417500,
+          "episode": 4,
+          "airingAt": 1792940400,
+          "media": {
+            "id": 209463,
+            "title": {
+              "romaji": "Kanata Kara",
+              "english": "From Far Away",
+              "native": "彼方から"
+            },
+            "format": "TV",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209463-Yxk2q10RXgg8.jpg"
+            }
+          }
+        },
+        {
+          "id": 419329,
+          "episode": 4,
+          "airingAt": 1792944300,
+          "media": {
+            "id": 211877,
+            "title": {
+              "romaji": "Kanojo no Tomodachi",
+              "english": "My Girlfriend's Friend",
+              "native": "彼女の友達"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211877-yWQ2r7XmWvG6.jpg"
+            }
+          }
+        },
+        {
+          "id": 422706,
+          "episode": 4,
+          "airingAt": 1792944300,
+          "media": {
+            "id": 212667,
+            "title": {
+              "romaji": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
+              "english": "The Lonely Snow Widow and the Cursed Ring",
+              "native": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪"
+            },
+            "format": "ONA",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212667-8g5ktyrx34Yl.jpg"
+            }
+          }
+        },
+        {
+          "id": 422165,
+          "episode": 4,
+          "airingAt": 1792945020,
+          "media": {
+            "id": 217782,
+            "title": {
+              "romaji": "Kanojo no Tomodachi Mini Anime Gekijou",
+              "english": "My Girlfriend's Friend Mini Anime",
+              "native": "彼女の友達 ミニアニメ劇場"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217782-DV0vODQ68ZRk.png"
+            }
+          }
+        },
+        {
+          "id": 419204,
+          "episode": 4,
+          "airingAt": 1792945200,
+          "media": {
+            "id": 208025,
+            "title": {
+              "romaji": "Dark Summoner to Dekiteiru",
+              "english": "I'm Dating a Dark Summoner",
+              "native": "ダークサモナーとデキている"
+            },
+            "format": "TV_SHORT",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-10-19",
+      "count": 8
+    },
+    {
+      "date": "2026-10-20",
+      "count": 22
+    },
+    {
+      "date": "2026-10-21",
+      "count": 13
+    },
+    {
+      "date": "2026-10-22",
+      "count": 11
+    },
+    {
+      "date": "2026-10-23",
+      "count": 15
+    },
+    {
+      "date": "2026-10-24",
+      "count": 26
+    },
+    {
+      "date": "2026-10-25",
+      "count": 35
+    }
+  ],
+  "artwork": [
+    {
+      "id": 422528,
+      "mediaId": 218217,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218217-crIGlnQDg0bJ.png"
+    },
+    {
+      "id": 414221,
+      "mediaId": 137653,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png"
+    },
+    {
+      "id": 419731,
+      "mediaId": 214593,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png"
+    },
+    {
+      "id": 422693,
+      "mediaId": 218532,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218532-I1GCprJrJ5sm.png"
+    },
+    {
+      "id": 420067,
+      "mediaId": 207191,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg"
+    },
+    {
+      "id": 422213,
+      "mediaId": 209219,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg"
+    },
+    {
+      "id": 419765,
+      "mediaId": 204011,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg"
+    },
+    {
+      "id": 419856,
+      "mediaId": 185874,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg"
+    },
+    {
+      "id": 418904,
+      "mediaId": 160803,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png"
+    },
+    {
+      "id": 408371,
+      "mediaId": 155723,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
+    },
+    {
+      "id": 415243,
+      "mediaId": 213188,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png"
+    },
+    {
+      "id": 422565,
+      "mediaId": 195539,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+    },
+    {
+      "id": 422566,
+      "mediaId": 195539,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+    },
+    {
+      "id": 422567,
+      "mediaId": 195539,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+    },
+    {
+      "id": 422568,
+      "mediaId": 195539,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+    },
+    {
+      "id": 422569,
+      "mediaId": 195539,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+    },
+    {
+      "id": 422570,
+      "mediaId": 195539,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+    },
+    {
+      "id": 422571,
+      "mediaId": 195539,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+    },
+    {
+      "id": 422572,
+      "mediaId": 195539,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+    },
+    {
+      "id": 422573,
+      "mediaId": 195539,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+    },
+    {
+      "id": 422574,
+      "mediaId": 195539,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg"
+    },
+    {
+      "id": 417798,
+      "mediaId": 206949,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png"
+    },
+    {
+      "id": 420418,
+      "mediaId": 209502,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg"
+    },
+    {
+      "id": 418479,
+      "mediaId": 200294,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200294-E6KIgkFaJOfG.jpg"
+    },
+    {
+      "id": 418974,
+      "mediaId": 187990,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187990-tNyQPmr9TkYi.png"
+    },
+    {
+      "id": 422539,
+      "mediaId": 198727,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg"
+    },
+    {
+      "id": 422442,
+      "mediaId": 187316,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187316-jucYCojVTjSY.jpg"
+    },
+    {
+      "id": 420254,
+      "mediaId": 207329,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png"
+    },
+    {
+      "id": 418951,
+      "mediaId": 207809,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg"
+    },
+    {
+      "id": 419635,
+      "mediaId": 179876,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179876-Wg62CAzp5WQ1.jpg"
+    },
+    {
+      "id": 416121,
+      "mediaId": 204656,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg"
+    },
+    {
+      "id": 417915,
+      "mediaId": 199409,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png"
+    },
+    {
+      "id": 421466,
+      "mediaId": 214974,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg"
+    },
+    {
+      "id": 422057,
+      "mediaId": 152677,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png"
+    },
+    {
+      "id": 420788,
+      "mediaId": 217282,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217282-fRAAhF2b5eIr.png"
+    },
+    {
+      "id": 420154,
+      "mediaId": 211778,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg"
+    },
+    {
+      "id": 422250,
+      "mediaId": 176314,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg"
+    },
+    {
+      "id": 417272,
+      "mediaId": 178868,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg"
+    },
+    {
+      "id": 419601,
+      "mediaId": 199068,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png"
+    },
+    {
+      "id": 421451,
+      "mediaId": 168085,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168085-hPOOODUADp7D.png"
+    },
+    {
+      "id": 418796,
+      "mediaId": 159042,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png"
+    },
+    {
+      "id": 419814,
+      "mediaId": 213068,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png"
+    },
+    {
+      "id": 420118,
+      "mediaId": 172192,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg"
+    },
+    {
+      "id": 421765,
+      "mediaId": 217624,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217624-Cwkze5dZ5txL.jpg"
+    },
+    {
+      "id": 419083,
+      "mediaId": 206401,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png"
+    },
+    {
+      "id": 422408,
+      "mediaId": 188034,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg"
+    },
+    {
+      "id": 421726,
+      "mediaId": 213805,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-Nokui3uWlIlw.png"
+    },
+    {
+      "id": 412353,
+      "mediaId": 160275,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160275-cBOWJpcCGeMq.jpg"
+    },
+    {
+      "id": 418962,
+      "mediaId": 199594,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199594-moYKzlfIH03U.jpg"
+    },
+    {
+      "id": 419732,
+      "mediaId": 214593,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png"
+    },
+    {
+      "id": 421804,
+      "mediaId": 212144,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg"
+    },
+    {
+      "id": 422592,
+      "mediaId": 214551,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214551-uDaf7UPVxN2v.jpg"
+    },
+    {
+      "id": 417002,
+      "mediaId": 180136,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg"
+    },
+    {
+      "id": 418822,
+      "mediaId": 212503,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg"
+    },
+    {
+      "id": 421792,
+      "mediaId": 217577,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg"
+    },
+    {
+      "id": 419020,
+      "mediaId": 191832,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png"
+    },
+    {
+      "id": 420968,
+      "mediaId": 210482,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg"
+    },
+    {
+      "id": 420231,
+      "mediaId": 194207,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194207-7n4M6jOwLdcF.jpg"
+    },
+    {
+      "id": 421006,
+      "mediaId": 158871,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg"
+    },
+    {
+      "id": 421868,
+      "mediaId": 165159,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png"
+    },
+    {
+      "id": 422659,
+      "mediaId": 146004,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146004-hH08KAB1yHlN.png"
+    },
+    {
+      "id": 419662,
+      "mediaId": 208367,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208367-qWKRaOpokGoG.jpg"
+    },
+    {
+      "id": 420191,
+      "mediaId": 216895,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg"
+    },
+    {
+      "id": 419704,
+      "mediaId": 186742,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png"
+    },
+    {
+      "id": 418784,
+      "mediaId": 195516,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg"
+    },
+    {
+      "id": 418467,
+      "mediaId": 205909,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg"
+    },
+    {
+      "id": 422238,
+      "mediaId": 204650,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png"
+    },
+    {
+      "id": 421091,
+      "mediaId": 203490,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg"
+    },
+    {
+      "id": 418624,
+      "mediaId": 178083,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg"
+    },
+    {
+      "id": 419758,
+      "mediaId": 214703,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214703-iXoaVH6UkiZd.png"
+    },
+    {
+      "id": 420278,
+      "mediaId": 212308,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212308-HUdh20Djd7cm.jpg"
+    },
+    {
+      "id": 421153,
+      "mediaId": 183231,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png"
+    },
+    {
+      "id": 418612,
+      "mediaId": 214968,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214968-rrPSP2nKF40C.jpg"
+    },
+    {
+      "id": 419528,
+      "mediaId": 216557,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-b72dAqbVEDO7.jpg"
+    },
+    {
+      "id": 417666,
+      "mediaId": 214260,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214260-m2fg5OwduwSt.jpg"
+    },
+    {
+      "id": 414712,
+      "mediaId": 137683,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png"
+    },
+    {
+      "id": 421874,
+      "mediaId": 199353,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199353-S2jczHjCWHGL.png"
+    },
+    {
+      "id": 421816,
+      "mediaId": 209709,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209709-Wz8BKL1fm5MC.png"
+    },
+    {
+      "id": 409443,
+      "mediaId": 966,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg"
+    },
+    {
+      "id": 380066,
+      "mediaId": 8687,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg"
+    },
+    {
+      "id": 422490,
+      "mediaId": 195571,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195571-fvj7u5GI7BRT.jpg"
+    },
+    {
+      "id": 420736,
+      "mediaId": 235,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg"
+    },
+    {
+      "id": 421840,
+      "mediaId": 212799,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212799-n7WDdic7IL1z.png"
+    },
+    {
+      "id": 415797,
+      "mediaId": 213356,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg"
+    },
+    {
+      "id": 419827,
+      "mediaId": 180894,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png"
+    },
+    {
+      "id": 421885,
+      "mediaId": 187402,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187402-ReKkLwFmMV3q.jpg"
+    },
+    {
+      "id": 420144,
+      "mediaId": 204389,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204389-jCoFCeTthDMy.jpg"
+    },
+    {
+      "id": 419553,
+      "mediaId": 195604,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg"
+    },
+    {
+      "id": 419803,
+      "mediaId": 209562,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209562-kQQbTKDuql9p.jpg"
+    },
+    {
+      "id": 420131,
+      "mediaId": 199007,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-8R1HsnflnHJE.jpg"
+    },
+    {
+      "id": 420242,
+      "mediaId": 203473,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg"
+    },
+    {
+      "id": 422396,
+      "mediaId": 169581,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png"
+    },
+    {
+      "id": 418847,
+      "mediaId": 191656,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191656-xFHtxM8SUTdU.png"
+    },
+    {
+      "id": 417717,
+      "mediaId": 209872,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209872-RBeVPqwejHFp.jpg"
+    },
+    {
+      "id": 419565,
+      "mediaId": 202250,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-mpm2cvr92Au2.jpg"
+    },
+    {
+      "id": 410606,
+      "mediaId": 204269,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204269-fTR4iyVjTHiC.png"
+    },
+    {
+      "id": 422008,
+      "mediaId": 213298,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213298-ymB1Sw0yDZ0Y.jpg"
+    },
+    {
+      "id": 422357,
+      "mediaId": 218011,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218011-dPgr1MlfSuhH.jpg"
+    },
+    {
+      "id": 412318,
+      "mediaId": 185646,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185646-2eGmsnaSHiLC.jpg"
+    },
+    {
+      "id": 411679,
+      "mediaId": 202957,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg"
+    },
+    {
+      "id": 420093,
+      "mediaId": 216860,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216860-ghfSopHbPVNa.png"
+    },
+    {
+      "id": 410158,
+      "mediaId": 206523,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg"
+    },
+    {
+      "id": 422177,
+      "mediaId": 217787,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b217787-NHLlgGiqy59P.jpg"
+    },
+    {
+      "id": 408372,
+      "mediaId": 155723,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png"
+    },
+    {
+      "id": 417555,
+      "mediaId": 196613,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg"
+    },
+    {
+      "id": 412159,
+      "mediaId": 189123,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189123-0secXELIhkIW.jpg"
+    },
+    {
+      "id": 421984,
+      "mediaId": 191788,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191788-XC6F24LdX6a4.jpg"
+    },
+    {
+      "id": 422225,
+      "mediaId": 213657,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213657-ORNXVEBCjXaz.jpg"
+    },
+    {
+      "id": 419577,
+      "mediaId": 213658,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213658-D3BPJaqawLxS.png"
+    },
+    {
+      "id": 416930,
+      "mediaId": 118123,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png"
+    },
+    {
+      "id": 394995,
+      "mediaId": 2406,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg"
+    },
+    {
+      "id": 419076,
+      "mediaId": 190054,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190054-8h0AuqQjwcCL.png"
+    },
+    {
+      "id": 419077,
+      "mediaId": 190054,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190054-8h0AuqQjwcCL.png"
+    },
+    {
+      "id": 419078,
+      "mediaId": 190054,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190054-8h0AuqQjwcCL.png"
+    },
+    {
+      "id": 422504,
+      "mediaId": 215835,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215835-B0seSw93V5qM.png"
+    },
+    {
+      "id": 419790,
+      "mediaId": 186541,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg"
+    },
+    {
+      "id": 418252,
+      "mediaId": 202079,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202079-nwBpDUms0Bab.png"
+    },
+    {
+      "id": 419240,
+      "mediaId": 209032,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209032-R0gP5IFdk7Vd.jpg"
+    },
+    {
+      "id": 422115,
+      "mediaId": 209499,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209499-S0sWFrCpft85.jpg"
+    },
+    {
+      "id": 419191,
+      "mediaId": 206814,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg"
+    },
+    {
+      "id": 419229,
+      "mediaId": 185756,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185756-xPCl0RyQ7fXD.jpg"
+    },
+    {
+      "id": 419251,
+      "mediaId": 205896,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg"
+    },
+    {
+      "id": 419613,
+      "mediaId": 200455,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200455-P3XStRQMJ7Di.png"
+    },
+    {
+      "id": 419898,
+      "mediaId": 212888,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212888-NhyvqPt5aIuJ.jpg"
+    },
+    {
+      "id": 422102,
+      "mediaId": 199426,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199426-0nBgTV9BrcJn.jpg"
+    },
+    {
+      "id": 417500,
+      "mediaId": 209463,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209463-Yxk2q10RXgg8.jpg"
+    },
+    {
+      "id": 419329,
+      "mediaId": 211877,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211877-yWQ2r7XmWvG6.jpg"
+    },
+    {
+      "id": 422706,
+      "mediaId": 212667,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212667-8g5ktyrx34Yl.jpg"
+    },
+    {
+      "id": 422165,
+      "mediaId": 217782,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217782-DV0vODQ68ZRk.png"
+    },
+    {
+      "id": 419204,
+      "mediaId": 208025,
+      "src": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg"
+    }
+  ],
+  "requests": [
+    {
+      "id": "63AD6E49776F31E9E26D47F4622BC98A",
+      "url": "http://127.0.0.1:61521/index.html",
+      "method": "GET",
+      "type": "Document",
+      "postData": null,
+      "ts": 1792417537825,
+      "status": 200,
+      "mimeType": "text/html"
+    },
+    {
+      "id": "18072.2",
+      "url": "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap",
+      "method": "GET",
+      "type": "Stylesheet",
+      "postData": null,
+      "ts": 1792417537841,
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "id": "18072.3",
+      "url": "http://127.0.0.1:61521/styles.css",
+      "method": "GET",
+      "type": "Stylesheet",
+      "postData": null,
+      "ts": 1792417537841,
+      "status": 200,
+      "mimeType": "text/css"
+    },
+    {
+      "id": "18072.4",
+      "url": "http://127.0.0.1:61521/app.js",
+      "method": "GET",
+      "type": "Script",
+      "postData": null,
+      "ts": 1792417537841,
+      "status": 200,
+      "mimeType": "text/javascript"
+    },
+    {
+      "id": "18072.8",
+      "url": "http://127.0.0.1:61521/api/ann/news",
+      "method": "GET",
+      "type": "Fetch",
+      "postData": null,
+      "ts": 1792417538087,
+      "status": 200,
+      "mimeType": "application/json"
+    },
+    {
+      "id": "18072.141",
+      "url": "https://fonts.gstatic.com/s/zenkakugothicnew/v19/gNMYW2drQpDw0GjzrVNFf_valaDBcznOojxoTA.woff2",
+      "method": "GET",
+      "type": "Font",
+      "postData": null,
+      "ts": 1792417538087,
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "id": "18072.14",
+      "url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2",
+      "method": "GET",
+      "type": "Font",
+      "postData": null,
+      "ts": 1792417538087,
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "id": "18072.504",
+      "url": "https://fonts.gstatic.com/s/zenkakugothicnew/v19/gNMVW2drQpDw0GjzrVNFf_valaDBcznOqr9PWWPYTQ.woff2",
+      "method": "GET",
+      "type": "Font",
+      "postData": null,
+      "ts": 1792417538087,
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "id": "18072.383",
+      "url": "https://fonts.gstatic.com/s/zenkakugothicnew/v19/gNMVW2drQpDw0GjzrVNFf_valaDBcznOqodNWWPYTQ.woff2",
+      "method": "GET",
+      "type": "Font",
+      "postData": null,
+      "ts": 1792417538087,
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "id": "18072.262",
+      "url": "https://fonts.gstatic.com/s/zenkakugothicnew/v19/gNMVW2drQpDw0GjzrVNFf_valaDBcznOqs9LWWPYTQ.woff2",
+      "method": "GET",
+      "type": "Font",
+      "postData": null,
+      "ts": 1792417538088,
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "id": "F97EBA66D33E781C2B2FD76FF30B0517",
+      "url": "https://graphql.anilist.co/",
+      "method": "OPTIONS",
+      "type": "Other",
+      "postData": null,
+      "ts": 1792417538169,
+      "status": 204,
+      "mimeType": ""
+    },
+    {
+      "id": "18072.505",
+      "url": "https://graphql.anilist.co/",
+      "method": "POST",
+      "type": "Fetch",
+      "postData": "{\"query\":\"query AiringRadar($page: Int!, $start: Int!, $end: Int!) {\\n  Page(page: $page, perPage: 50) {\\n    pageInfo { hasNextPage }\\n    airingSchedules(airingAt_greater: $start, airingAt_lesser: $end, sort: [TIME, ID]) {\\n      id episode airingAt\\n      media { id title { romaji english native } format coverImage { large } }\\n    }\\n  }\\n}\",\"variables\":{\"page\":1,\"start\":1792342799,\"end\":1792947600}}",
+      "ts": 1792417538169,
+      "status": 200,
+      "mimeType": "application/json"
+    },
+    {
+      "id": "18072.506",
+      "url": "https://graphql.anilist.co/",
+      "method": "POST",
+      "type": "Fetch",
+      "postData": "{\"query\":\"query AiringRadar($page: Int!, $start: Int!, $end: Int!) {\\n  Page(page: $page, perPage: 50) {\\n    pageInfo { hasNextPage }\\n    airingSchedules(airingAt_greater: $start, airingAt_lesser: $end, sort: [TIME, ID]) {\\n      id episode airingAt\\n      media { id title { romaji english native } format coverImage { large } }\\n    }\\n  }\\n}\",\"variables\":{\"page\":2,\"start\":1792342799,\"end\":1792947600}}",
+      "ts": 1792417538803,
+      "status": 200,
+      "mimeType": "application/json"
+    },
+    {
+      "id": "743541C0242947B4B173F517FA396ECC",
+      "url": "https://graphql.anilist.co/",
+      "method": "OPTIONS",
+      "type": "Other",
+      "postData": null,
+      "ts": 1792417538803,
+      "status": 204,
+      "mimeType": ""
+    },
+    {
+      "id": "18072.507",
+      "url": "https://graphql.anilist.co/",
+      "method": "POST",
+      "type": "Fetch",
+      "postData": "{\"query\":\"query AiringRadar($page: Int!, $start: Int!, $end: Int!) {\\n  Page(page: $page, perPage: 50) {\\n    pageInfo { hasNextPage }\\n    airingSchedules(airingAt_greater: $start, airingAt_lesser: $end, sort: [TIME, ID]) {\\n      id episode airingAt\\n      media { id title { romaji english native } format coverImage { large } }\\n    }\\n  }\\n}\",\"variables\":{\"page\":3,\"start\":1792342799,\"end\":1792947600}}",
+      "ts": 1792417539379,
+      "status": 200,
+      "mimeType": "application/json"
+    },
+    {
+      "id": "63338BD093E7C4EE7EEC945C4979316D",
+      "url": "https://graphql.anilist.co/",
+      "method": "OPTIONS",
+      "type": "Other",
+      "postData": null,
+      "ts": 1792417539379,
+      "status": 204,
+      "mimeType": ""
+    },
+    {
+      "id": "18072.260",
+      "url": "https://fonts.gstatic.com/s/zenkakugothicnew/v19/gNMVW2drQpDw0GjzrVNFf_valaDBcznOqs9LWWfYTVlM.woff2",
+      "method": "GET",
+      "type": "Font",
+      "postData": null,
+      "ts": 1792417539795,
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "id": "18072.259",
+      "url": "https://fonts.gstatic.com/s/zenkakugothicnew/v19/gNMVW2drQpDw0GjzrVNFf_valaDBcznOqs9LaWG6XGtdu7-LJIjxku6yox_CeVZufvVB.119.woff2",
+      "method": "GET",
+      "type": "Font",
+      "postData": null,
+      "ts": 1792417539796,
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "id": "18072.248",
+      "url": "https://fonts.gstatic.com/s/zenkakugothicnew/v19/gNMVW2drQpDw0GjzrVNFf_valaDBcznOqs9LaWG6XGtdu7-LJIjxku6yox_CeVZufvVB.108.woff2",
+      "method": "GET",
+      "type": "Font",
+      "postData": null,
+      "ts": 1792417539797,
+      "status": 200,
+      "mimeType": "font/woff2"
+    },
+    {
+      "id": "18072.508",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218217-crIGlnQDg0bJ.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539800,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.509",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539800,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.510",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539800,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.511",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218532-I1GCprJrJ5sm.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539800,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.512",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539800,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.513",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539800,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.514",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539800,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.515",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539800,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.516",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539801,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.517",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539801,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.518",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539801,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.519",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-t0GQQ9J9qtBW.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539801,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.529",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539801,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.530",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539801,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.531",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200294-E6KIgkFaJOfG.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539801,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.532",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187990-tNyQPmr9TkYi.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539801,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.533",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539801,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.534",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187316-jucYCojVTjSY.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539801,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.535",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539803,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.536",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539804,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.537",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179876-Wg62CAzp5WQ1.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539804,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.538",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539804,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.539",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539804,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.540",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539804,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.541",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539804,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.542",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217282-fRAAhF2b5eIr.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539805,
+      "status": 200,
+      "mimeType": "image/png"
+    },
+    {
+      "id": "18072.543",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539805,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.544",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539805,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.545",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539805,
+      "status": 200,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "id": "18072.546",
+      "url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png",
+      "method": "GET",
+      "type": "Image",
+      "postData": null,
+      "ts": 1792417539805,
+      "status": 200,
+      "mimeType": "image/png"
+    }
+  ],
+  "consoleErrors": [],
+  "exceptions": []
+}

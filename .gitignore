@@ -1,0 +1,23 @@
+# Generated browser evidence; retain the frozen data used by the QA scripts.
+qa/artifacts/*
+!qa/artifacts/design-before/
+qa/artifacts/design-before/*
+!qa/artifacts/design-before/data.json
+!qa/artifacts/acceptance-10/
+qa/artifacts/acceptance-10/*
+!qa/artifacts/acceptance-10/compact-before.json
+!qa/artifacts/acceptance-14/
+qa/artifacts/acceptance-14/*
+!qa/artifacts/acceptance-14/library-live.json
+!qa/artifacts/acceptance-14/radar-live.json
+!qa/artifacts/acceptance-19/
+qa/artifacts/acceptance-19/*
+!qa/artifacts/acceptance-19/images-live-data.json
+
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db

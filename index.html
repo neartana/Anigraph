@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0A121E">
+  <meta name="description" content="Anigraph - anime and manga statistics from AniList and MyAnimeList, with a personal library and tier lists.">
+  <title>Anigraph / Anime &amp; manga record</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230A121E'/%3E%3Crect x='6' y='6' width='8' height='20' fill='%233DB4F2'/%3E%3Crect x='18' y='6' width='8' height='9' fill='%23F2F5F8'/%3E%3Crect x='18' y='19' width='8' height='7' fill='%234FD1C5'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to the record</a>
+
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="brand-block">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span class="brand-word">ANIGRAPH</span>
+      </div>
+
+      <nav class="view-nav" aria-label="Views">
+        <button class="view-tab" type="button" data-view-target="stats" aria-current="page">
+          <span class="view-name">STATS</span>
+        </button>
+        <button class="view-tab" type="button" data-view-target="library">
+          <span class="view-name">LIBRARY</span>
+        </button>
+        <button class="view-tab" type="button" data-view-target="tiers">
+          <span class="view-name">TIER LISTS</span>
+        </button>
+        <button class="view-tab" type="button" data-view-target="radar">
+          <span class="view-name">AIRING</span>
+        </button>
+      </nav>
+
+      <div class="division-switch" role="group" aria-label="Media division">
+        <div class="switch-options">
+          <button type="button" class="switch-btn" data-media-type="ANIME" aria-pressed="true">ANIME</button>
+          <button type="button" class="switch-btn" data-media-type="MANGA" aria-pressed="false">MANGA</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <div id="statsLayout" class="stats-layout">
+      <section id="viewStats" class="view" aria-label="Statistics"></section>
+      <aside id="annWire" aria-label="Anime News Network wire"></aside>
+    </div>
+    <section id="viewTiers" class="view" aria-label="Tier lists" hidden></section>
+    <section id="viewLibrary" class="view" aria-label="My Library" hidden></section>
+    <section id="viewRadar" class="view" aria-label="Airing radar" hidden></section>
+  </main>
+
+  <footer class="site-foot" aria-label="Site footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <div class="footer-brand-name"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span class="footer-word">ANIGRAPH</span></div>
+        <p>Stats, collections and character rankings.<br>Your anime and manga, in one place.</p>
+      </div>
+      <nav class="footer-explore" aria-labelledby="footerExploreTitle">
+        <h2 class="footer-label" id="footerExploreTitle">EXPLORE</h2>
+        <div class="footer-nav">
+          <button class="footer-link" type="button" data-footer-view="stats">Stats</button>
+          <button class="footer-link" type="button" data-footer-view="library">My Library</button>
+          <button class="footer-link" type="button" data-footer-view="tiers">Tier Lists</button>
+          <button class="footer-link" type="button" data-footer-view="radar">Airing</button>
+        </div>
+      </nav>
+      <div class="footer-sources">
+        <h2 class="footer-label">POWERED BY PUBLIC DATA</h2>
+        <a class="footer-link" href="https://anilist.co/" target="_blank" rel="noopener noreferrer">AniList <span aria-hidden="true">↗</span></a>
+        <a class="footer-link" href="https://myanimelist.net/" target="_blank" rel="noopener noreferrer">MyAnimeList <span aria-hidden="true">↗</span></a>
+        <a class="footer-link" href="https://www.animenewsnetwork.com/" target="_blank" rel="noopener noreferrer">Anime News Network <span aria-hidden="true">↗</span></a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© ANIGRAPH</span>
+      <button class="footer-link" type="button" data-action="footer-top">Back to top <span aria-hidden="true">↑</span></button>
+    </div>
+  </footer>
+
+  <noscript>
+    <div class="noscript">Anigraph needs JavaScript for public profiles, libraries and local boards.</div>
+  </noscript>
+
+  <div id="liveRegion" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <dialog id="confirmDialog" class="dialog" aria-labelledby="dialogTitle">
+    <form method="dialog" class="dialog-form">
+      <p class="dialog-kicker" id="dialogKicker">CONFIRM</p>
+      <h2 class="dialog-title" id="dialogTitle">Confirm action</h2>
+      <p class="dialog-body" id="dialogBody"></p>
+      <div class="dialog-actions">
+        <button type="submit" value="cancel" class="btn btn-quiet" id="dialogCancel" formnovalidate>CANCEL</button>
+        <button type="submit" value="ok" class="btn btn-primary" id="dialogOk">CONFIRM</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
