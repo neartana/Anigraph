@@ -1,5 +1,10 @@
 # ![Anigraph](media/anigraph-logo.svg)
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+[![Node.js: 24.x](https://img.shields.io/badge/node-24.x-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/download)
+[![npm install: not required](https://img.shields.io/badge/npm%20install-not%20required-007ec6?style=flat-square&logo=npm&logoColor=white)](#quick-start)
+[![No API key: keyless](https://img.shields.io/badge/no%20API%20key-keyless-brightgreen?style=flat-square)](#data-and-privacy)
+
 **Your anime and manga library, in perspective.**
 
 Anigraph turns public AniList and MyAnimeList profiles into a visual dashboard for
@@ -7,7 +12,7 @@ understanding your taste, finding your next title, and keeping your favorites to
 Explore your statistics, browse your collection, follow airing schedules, and build
 character tier lists in one lightweight app.
 
-**Vanilla JavaScript · Node.js 24 · No runtime dependencies · [MIT licensed](LICENSE)**
+**Vanilla JavaScript · No runtime dependencies**
 
 **[Open Anigraph](https://anigraph-phi.vercel.app/)**
 
