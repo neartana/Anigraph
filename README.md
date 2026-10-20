@@ -1,4 +1,4 @@
-# Anigraph
+# ![Anigraph](media/anigraph-logo.svg)
 
 **Your anime and manga library, in perspective.**
 

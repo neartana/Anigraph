@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="136" viewBox="0 0 560 136" role="img" aria-labelledby="title">
+  <title id="title">Anigraph</title>
+  <rect width="560" height="136" rx="16" fill="#0A121E"/>
+  <g transform="translate(36 32)">
+    <rect width="24" height="72" fill="#3DB4F2"/>
+    <rect x="32" width="40" height="32" fill="#F2F5F8"/>
+    <rect x="32" y="40" width="40" height="32" fill="#4FD1C5"/>
+  </g>
+  <text x="136" y="91" fill="#F2F5F8" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="900" letter-spacing="-2.2">ANIGRAPH</text>
+</svg>
