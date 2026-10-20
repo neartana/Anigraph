@@ -1,9 +1,9 @@
 # ![Anigraph](media/anigraph-logo.svg)
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
-[![Node.js: 24.x](https://img.shields.io/badge/node-24.x-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/download)
-[![npm install: not required](https://img.shields.io/badge/npm%20install-not%20required-007ec6?style=flat-square&logo=npm&logoColor=white)](#quick-start)
-[![No API key: keyless](https://img.shields.io/badge/no%20API%20key-keyless-brightgreen?style=flat-square)](#data-and-privacy)
+[![License](https://img.shields.io/github/license/neartana/Anigraph?style=flat-square&color=3DB4F2)](LICENSE)
+[![Node.js version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fneartana%2FAnigraph%2Fmain%2Fpackage.json&query=%24.engines.node&label=Node.js&color=339933&style=flat-square&logo=nodedotjs&logoColor=white)](package.json)
+[![Vanilla JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E)](app.js)
+[![Vercel website status](https://img.shields.io/website?url=https%3A%2F%2Fanigraph-phi.vercel.app%2F&label=Vercel&up_message=online&down_message=offline&up_color=3DB4F2&down_color=e05d44&style=flat-square&logo=vercel&logoColor=white)](https://anigraph-phi.vercel.app/)
 
 **Your anime and manga library, in perspective.**
 
