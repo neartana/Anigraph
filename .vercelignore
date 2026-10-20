@@ -1,0 +1,16 @@
+.git/
+.vercel/
+node_modules/
+dist/
+qa/
+media/
+docs/
+.env
+.env.*
+*.log
+**/*.log
+**/.DS_Store
+**/Thumbs.db
+README.md
+NEXT_AGENT.md
+ANIGRAPH.md

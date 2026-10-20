@@ -7,7 +7,7 @@ understanding your taste, finding your next title, and keeping your favorites to
 Explore your statistics, browse your collection, follow airing schedules, and build
 character tier lists in one lightweight app.
 
-**Vanilla JavaScript · No build step · No runtime dependencies · [MIT licensed](LICENSE)**
+**Vanilla JavaScript · Node.js 24 · No runtime dependencies · [MIT licensed](LICENSE)**
 
 [![Anigraph — Stats, Library, discovery, Airing Radar, and tier lists](media/anigraph-showcase-preview.gif)](https://github.com/neartana/Anigraph/raw/refs/heads/main/media/anigraph-showcase.mp4)
 
@@ -76,6 +76,26 @@ python -m http.server 5173 --bind 127.0.0.1
 On static hosting, unavailable news is shown without blocking the other views. Some
 browsers restrict clipboard access on `file://`; sharing falls back to a selectable link.
 
+## Deploy to Vercel
+
+Import this repository into Vercel. The included configuration uses Node.js 24,
+publishes the three app files through Vercel's CDN, and runs the existing MyAnimeList
+and news proxies in a Node function. No environment variables are required.
+
+For a command-line deployment after signing in:
+
+~~~sh
+npx vercel --prod
+~~~
+
+`npm run build` prepares the static `dist/` directory; `npm run test:vercel` checks
+the deployment adapter, request validation, and published file allowlist. Local
+development still uses `node server.js`. The motion showcase remains available in
+the GitHub repository rather than the deployed app.
+
+Proxy caches and upstream request queues are held in each warm function instance.
+They reset on cold starts and are not shared across instances.
+
 ## Data and privacy
 
 Anigraph reads **public data only**. No account connection, password, API key, or OAuth
@@ -83,11 +103,11 @@ login is required, and it does not update your AniList or MyAnimeList account.
 
 - **AniList** supplies public profiles, catalog metadata, recommendations, characters,
   and airing schedules through its GraphQL API.
-- **MyAnimeList** profiles and lists are read through the local Node proxy. Catalog
+- **MyAnimeList** profiles and lists are read through the server proxy. Catalog
   discovery, character boards, and airing data still come from AniList. MAL title links
   open on MAL; catalog discoveries open on AniList.
 - **Anime News Network** supplies headlines, excerpts, and optional thumbnails through
-  a cached local proxy. Article links lead to the publisher.
+  a cached server proxy. Article links lead to the publisher.
 - **Your browser** stores boards, collections, and interface preferences. There is no
   hosted database or cross-device sync. Clearing browser storage removes local saves.
   Shared board links contain the board snapshot, including character rankings.

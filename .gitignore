@@ -24,3 +24,7 @@ Thumbs.db
 
 # Intermediate showcase frames and uncompressed audio.
 media/showcase/.render/
+
+# Generated deployment output and local Vercel project settings.
+dist/
+.vercel/

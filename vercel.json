@@ -1,0 +1,23 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "node scripts/build-vercel.mjs",
+  "outputDirectory": "dist",
+  "functions": {
+    "api/app.js": {
+      "maxDuration": 60
+    }
+  },
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/app" }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" }
+      ]
+    }
+  ]
+}
