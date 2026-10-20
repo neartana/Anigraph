@@ -101,6 +101,20 @@ async function previews(){
   await sharp(Buffer.from(frame(5.4))).jpeg({quality:94}).toFile(path.join(media,'anigraph-showcase-poster.jpg'));
   console.log('8 scene previews and poster rendered.');
 }
+async function playbackFormats(mp4){
+  const formats = [
+    ['anigraph-showcase.webm', ['-map','0:v:0','-map','0:a:0','-c:v','libvpx-vp9','-b:v','0','-crf','33','-deadline','good','-cpu-used','4','-row-mt','1','-threads','4','-pix_fmt','yuv420p','-r',String(FPS),'-c:a','libopus','-b:a','96k'], 95],
+    ['anigraph-showcase-preview.gif', ['-an','-filter_complex','[0:v]fps=8,scale=640:-1:flags=lanczos,split[a][b];[a]palettegen=max_colors=128:stats_mode=diff[p];[b][p]paletteuse=dither=sierra2_4a:diff_mode=rectangle','-loop','0'], 8]
+  ];
+  for(const [name, options, maxMB] of formats){
+    const output=path.join(media,name);
+    const child=spawn(process.env.FFMPEG_PATH||'ffmpeg',['-hide_banner','-loglevel','error','-y','-i',mp4,...options,output],{stdio:['ignore','ignore','pipe'],windowsHide:true});
+    let errors='';child.stderr.on('data',data=>{errors+=data;});
+    await new Promise((resolve,reject)=>{child.on('error',reject);child.on('close',code=>code===0?resolve():reject(Error('FFmpeg failed for '+name+': '+errors)));});
+    const info=await fs.stat(output);assert.ok(info.size>10000&&info.size<maxMB*1024*1024,name+' exceeds its publishing size limit');
+    console.log(`Saved ${output} (${(info.size/1024/1024).toFixed(1)} MB)`);
+  }
+}
 await fs.mkdir(scratch,{recursive:true});await loadAssets();await previews();
 if(!process.argv.includes('--preview')){
   const audio=path.join(scratch,'soundtrack.wav');await fs.writeFile(audio,soundtrack());
@@ -117,4 +131,5 @@ if(!process.argv.includes('--preview')){
   child.stdin.end();await finished;
   const info=await fs.stat(output);assert.ok(info.size>100000&&info.size<95*1024*1024,'MP4 must fit normal GitHub uploads');
   console.log(`Saved ${output} (${(info.size/1024/1024).toFixed(1)} MB)`);
+  await playbackFormats(output);
 }

@@ -2,6 +2,15 @@
 
 ## Current status
 
+Showcase playback now uses `media/index.html`, with WebM (VP9/Opus) and the original
+MP4 (H.264/AAC). Both played to completion in the in-app browser. GitHub's file viewer
+does not preview the MP4; README now uses a full animated GIF and explicit download
+links. The renderer reproduces the WebM/GIF as well. Serve the player with a plain
+static server or open its HTML locally; the app's allowlisted Node server does not
+serve `media/`. The concise root README links detailed notes in `docs/DEVELOPMENT.md`.
+`LICENSE` is MIT (2026 neartana); third-party artwork/data remain outside that grant.
+No product code changed in this playback/documentation pass.
+
 A 30-second 1080p motion-graphics showcase is in `media/anigraph-showcase.mp4`,
 with a poster and editable SVG/FFmpeg renderer in `media/showcase/`. Six real app
 screenshots and capture provenance are included; tier rankings are an isolated demo.

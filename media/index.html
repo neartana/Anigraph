@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Anigraph — Video showcase</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #0a121e; color: #f2f5f8; font: 16px/1.6 system-ui, sans-serif; }
+    main { width: min(1120px, 100% - 40px); margin: 40px auto; }
+    header { display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 28px; }
+    .brand { color: #f2f5f8; font-weight: 750; letter-spacing: .04em; text-decoration: none; }
+    .brand span { color: #3db4f2; }
+    a { color: #66c7fa; text-underline-offset: 4px; }
+    a:hover { color: #b4e6ff; }
+    a:focus-visible, video:focus-visible { outline: 3px solid #4fd1c5; outline-offset: 5px; }
+    h1 { margin: 0 0 8px; font-size: clamp(28px, 5vw, 44px); letter-spacing: -.04em; line-height: 1.2; }
+    p { margin: 0 0 24px; color: #a6b6ca; }
+    video { display: block; width: 100%; aspect-ratio: 16 / 9; background: #070d16; border-radius: 14px; }
+    .downloads { display: flex; flex-wrap: wrap; gap: 12px 24px; margin: 22px 0 12px; }
+    .note { font-size: 14px; }
+    details { margin-top: 32px; padding: 20px 24px; background: #101b2a; border-radius: 12px; }
+    summary { cursor: pointer; font-weight: 600; }
+    details p { margin: 12px 0 0; }
+    footer { margin-top: 28px; font-size: 13px; color: #a6b6ca; }
+    @media (max-width: 520px) { main { margin: 24px auto; } header { align-items: flex-start; } header a:last-child { font-size: 14px; } }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <a class="brand" href="https://github.com/neartana/Anigraph"><span>▥</span> ANIGRAPH</a>
+      <a href="https://github.com/neartana/Anigraph">View project on GitHub</a>
+    </header>
+    <h1>Your anime. Your story.</h1>
+    <p id="description">A 30-second tour of Anigraph. 1080p motion graphics with original instrumental music.</p>
+    <video controls playsinline preload="metadata" poster="anigraph-showcase-poster.jpg" aria-label="Anigraph video showcase" aria-describedby="description playback-help">
+      <source src="anigraph-showcase.webm" type="video/webm">
+      <source src="anigraph-showcase.mp4" type="video/mp4">
+      Your browser cannot play this video. Use one of the download links below.
+    </video>
+    <nav class="downloads" aria-label="Video downloads">
+      <a href="anigraph-showcase.mp4" download>Download MP4</a>
+      <a href="anigraph-showcase.webm" download>Download WebM</a>
+      <a href="showcase/README.md">Motion source &amp; rendering guide</a>
+    </nav>
+    <p id="playback-help" class="note">Press play to watch with sound. If playback is unavailable, download the MP4 and open it in your video player.</p>
+    <details>
+      <summary>What’s in the video</summary>
+      <p>Anigraph brings anime and manga statistics, a searchable library, Pick for Me recommendations, discovery, an airing schedule, and character tier lists into one place. It supports public AniList and MyAnimeList profiles. The tier board uses demonstration rankings.</p>
+    </details>
+    <footer>Original motion graphics and music © 2026 neartana · <a href="../LICENSE">MIT License</a>. Cover and character artwork belong to their respective owners.</footer>
+  </main>
+</body>
+</html>
