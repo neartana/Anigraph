@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": { "render": "node render.mjs", "preview": "node render.mjs --preview" },
+  "devDependencies": { "sharp": "0.35.5" }
+}

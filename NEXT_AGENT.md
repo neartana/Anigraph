@@ -2,6 +2,14 @@
 
 ## Current status
 
+A 30-second 1080p motion-graphics showcase is in `media/anigraph-showcase.mp4`,
+with a poster and editable SVG/FFmpeg renderer in `media/showcase/`. Six real app
+screenshots and capture provenance are included; tier rankings are an isolated demo.
+The original synthesized soundtrack is quiet and unclipped. Final FFmpeg checks
+decoded all 900 frames plus audio successfully (H.264, 1920x1080, 30fps, AAC 48kHz).
+Scene and transition contact sheets were inspected. Rendering intermediates are
+ignored; no product code changed or app regression suite was rerun for this addition.
+
 MyAnimeList is now a second profile source in Stats and Library. `state.source` persists
 as `anilist` (legacy default) or `mal`; changing it clears the profile and invalidates
 in-flight work. `server.js` serves fixed `/api/mal/profile` and `/api/mal/list` proxies,

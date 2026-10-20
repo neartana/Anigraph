@@ -3,6 +3,12 @@
 Anime and manga statistics from AniList or MyAnimeList, plus a personal library and local tier-list maker.
 Vanilla HTML, CSS and classic JavaScript. No build step, no framework, no runtime dependencies.
 
+## Video showcase
+
+[![Watch the 30-second Anigraph motion showcase](media/anigraph-showcase-poster.jpg)](media/anigraph-showcase.mp4)
+
+[Watch the 1080p video](media/anigraph-showcase.mp4) · [Editable motion source and rendering instructions](media/showcase/README.md)
+
 ## Run
 
 From this directory:
